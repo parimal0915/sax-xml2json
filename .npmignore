@@ -1,7 +1,5 @@
 # Dependency directories
 node_modules
-test.xml
-main.js
 .vscode
-item1.xml
+test.js
 standard.xml
