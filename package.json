@@ -1,0 +1,52 @@
+{
+  "_from": "sax-xml2json",
+  "_id": "sax-xml2json@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-JCDoerVRIyXnaSSqFqDI+XPN7lA=",
+  "_location": "/sax-xml2json",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "sax-xml2json",
+    "name": "sax-xml2json",
+    "escapedName": "sax-xml2json",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/sax-xml2json/-/sax-xml2json-1.0.2.tgz",
+  "_shasum": "2420e87ab5512325e76924aa16a0c8f973cdee50",
+  "_spec": "sax-xml2json",
+  "_where": "G:\\Git Projects\\sax-xml2json",
+  "author": {
+    "name": "parimal-padture"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "sax": "^1.2.4",
+    "through2": "^2.0.3"
+  },
+  "deprecated": false,
+  "description": "convert xml to json using sax parser",
+  "keywords": [
+    "sax",
+    "xml",
+    "json",
+    "xmltojson",
+    "xml2json"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "sax-xml2json",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
